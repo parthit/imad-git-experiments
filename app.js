@@ -5,3 +5,4 @@ function something (){
 
 console.log('hello world');
 something();
+console.log('trying it on myself');
