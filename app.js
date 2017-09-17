@@ -1,2 +1,7 @@
-console.log('hello world');
+function something (){
 
+	console.log('I\'m something inn the something function');
+}
+
+console.log('hello world');
+something();
