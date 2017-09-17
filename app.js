@@ -15,6 +15,7 @@ console.log('Finally done with this bug fixing time pass');
 function something (){
 
 	console.log('I\'m something inn the something function');
+	console.log('Bug fixes were done over here, and now it is ready');
 }
 
 console.log('hello world');
